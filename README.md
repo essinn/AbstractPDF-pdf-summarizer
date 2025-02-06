@@ -26,6 +26,8 @@ npm install
 3. Create a `.env.local` file and add the following:
 
 ```bash
+MONGODB_URI=mongodb_uri
+
 DEEPSEEK_API_KEY=your_deepseek_api_key
 DEEPSEEK_API_URL=https://api.deepseek.com/
 ```
